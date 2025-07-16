@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_kill": {
+    "job": "hunter",
+    "target": "minecraft:spider",
+    "experience": 8,
+    "level_needed": 65
+  }
+}

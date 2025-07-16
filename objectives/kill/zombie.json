@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_kill": {
+    "job": "hunter",
+    "target": "minecraft:zombie",
+    "experience": 15,
+    "level_needed": 35
+  }
+}

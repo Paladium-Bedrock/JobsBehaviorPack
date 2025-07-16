@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "minecraft:iron_ore",
+    "experience": 8,
+    "level_needed": 10
+  }
+}
