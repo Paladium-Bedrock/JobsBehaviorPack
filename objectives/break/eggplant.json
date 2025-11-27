@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "palajobs:objective_break": {
     "job": "farmer",
-    "target": "paladium:eggplant",
+    "target": "paladium:eggplant_crops",
     "icon": "paladium:eggplant",
     "experience": 10,
     "level_needed": 8

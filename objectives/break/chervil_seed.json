@@ -2,8 +2,8 @@
   "format_version": "1.0.0",
   "palajobs:objective_break": {
     "job": "farmer",
-    "target": "paladium:chervil_seed",
-    "icon" : "paladium:chervil_seed",
+    "target": "paladium:chervil_crops",
+    "icon" : "paladium:chervil",
     "experience": 20,
     "level_needed": 12
   }
