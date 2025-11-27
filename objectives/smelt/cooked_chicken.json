@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_smelt": {
+    "job": "hunter",
+    "target": { "item": "minecraft:cooked_chicken" },
+    "icon": "minecraft:cooked_chicken",
+    "experience": 10
+  }
+}

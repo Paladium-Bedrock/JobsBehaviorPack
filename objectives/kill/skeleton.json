@@ -3,7 +3,8 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "minecraft:skeleton",
+    "icon": "minecraft:skeleton_spawn_egg",
     "experience": 20,
-    "level_needed": 55
+    "level_needed": 11
   }
 }

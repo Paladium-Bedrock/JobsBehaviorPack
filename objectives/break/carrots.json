@@ -2,7 +2,9 @@
   "format_version": "1.0.0",
   "palajobs:objective_break": {
     "job": "farmer",
-    "target": "minecraft:carrots",
-    "experience": 2
+    "target": "minecraft:carrot",
+    "icon" : "minecraft:carrot",
+    "experience": 2,
+    "level_needed": 2
   }
 }

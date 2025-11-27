@@ -3,6 +3,7 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "minecraft:rabbit",
+    "icon": "minecraft:rabbit",
     "experience": 14
   }
 }

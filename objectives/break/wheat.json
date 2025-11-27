@@ -3,6 +3,7 @@
   "palajobs:objective_break": {
     "job": "farmer",
     "target": "minecraft:wheat",
+    "icon" : "minecraft:wheat",
     "experience": 1
   }
 }

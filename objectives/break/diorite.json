@@ -3,6 +3,7 @@
   "palajobs:objective_break": {
     "job": "miner",
     "target": "minecraft:diorite",
+    "icon" : "minecraft:diorite",
     "experience": 3
   }
 }

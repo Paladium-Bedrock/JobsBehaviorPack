@@ -3,6 +3,7 @@
   "palajobs:objective_break": {
     "job": "miner",
     "target": "minecraft:deepslate_redstone_ore",
+    "icon" : "minecraft:deepslate_redstone_ore",
     "experience": 15
   }
 }

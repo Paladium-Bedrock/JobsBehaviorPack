@@ -3,7 +3,8 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "minecraft:witch",
+    "icon": "minecraft:glass_bottle",
     "experience": 35,
-    "level_needed": 70
+    "level_needed": 14
   }
 }

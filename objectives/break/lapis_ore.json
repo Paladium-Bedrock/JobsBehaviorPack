@@ -3,6 +3,7 @@
   "palajobs:objective_break": {
     "job": "miner",
     "target": "minecraft:lapis_ore",
+    "icon" : "minecraft:lapis_ore",
     "experience": 15
   }
 }

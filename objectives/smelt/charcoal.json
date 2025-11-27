@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_smelt": {
+    "job": "miner",
+    "target": { "item": "minecraft:charcoal" },
+    "icon": "minecraft:charcoal",
+    "experience": 1
+  }
+}

@@ -2,7 +2,9 @@
   "format_version": "1.0.0",
   "palajobs:objective_break": {
     "job": "farmer",
-    "target": "minecraft:potatoes",
-    "experience": 2
+    "target": "minecraft:potato",
+    "icon": "minecraft:potato",
+    "experience": 1,
+    "level_needed": 2
   }
 }

@@ -3,6 +3,7 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "minecraft:chicken",
+    "icon": "minecraft:chicken_spawn_egg",
     "experience": 14
   }
 }

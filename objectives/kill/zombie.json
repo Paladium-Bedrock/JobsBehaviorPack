@@ -3,7 +3,8 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "minecraft:zombie",
+    "icon": "minecraft:zombie_spawn_egg",
     "experience": 15,
-    "level_needed": 35
+    "level_needed": 7
   }
 }

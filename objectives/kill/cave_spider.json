@@ -3,7 +3,8 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "minecraft:cave_spider",
+    "icon": "minecraft:cave_spider_spawn_egg",
     "experience": 15,
-    "level_needed": 90
+    "level_needed": 18
   }
 }

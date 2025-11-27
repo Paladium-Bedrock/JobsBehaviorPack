@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "farmer",
+    "target": "paladium:kiwano",
+    "icon": "paladium:kiwano",
+    "experience": 10,
+    "level_needed": 8
+  }
+}
+

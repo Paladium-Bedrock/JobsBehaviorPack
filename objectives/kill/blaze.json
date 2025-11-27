@@ -2,7 +2,9 @@
   "format_version": "1.0.0",
   "palajobs:objective_kill": {
     "job": "hunter",
-    "target": "minecraft:spider",
-    "experience": 25
+    "target": "minecraft:blaze",
+    "icon": "minecraft:blaze_spawn_egg",
+    "experience": 25,
+    "level_needed": 14
   }
 }

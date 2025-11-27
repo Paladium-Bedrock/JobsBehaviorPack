@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "minecraft:findium_ore",
+    "icon": "minecraft:findium_ore",
+    "experience": 100,
+    "level_needed": 15
+  }
+}
+

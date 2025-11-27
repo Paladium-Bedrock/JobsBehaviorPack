@@ -3,6 +3,7 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "minecraft:pig",
+    "icon": "minecraft:pig_spawn_egg",
     "experience": 14
   }
 }

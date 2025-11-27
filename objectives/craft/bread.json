@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_craft": {
+    "job": "farmer",
+    "target": { "item": "minecraft:bread" },
+    "icon": "minecraft:bread",
+    "experience": 1
+  }
+}

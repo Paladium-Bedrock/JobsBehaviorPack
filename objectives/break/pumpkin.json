@@ -3,6 +3,8 @@
   "palajobs:objective_break": {
     "job": "farmer",
     "target": "minecraft:pumpkin",
-    "experience": 4
+    "icon" : "minecraft:pumpkin",
+    "experience": 5,
+    "level_needed": 6
   }
 }

@@ -3,6 +3,7 @@
   "palajobs:objective_break": {
     "job": "miner",
     "target": "minecraft:deepslate",
+    "icon" : "minecraft:deepslate",
     "experience": 1
   }
 }

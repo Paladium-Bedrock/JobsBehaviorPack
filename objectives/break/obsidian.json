@@ -2,8 +2,8 @@
   "format_version": "1.0.0",
   "palajobs:objective_break": {
     "job": "miner",
-    "target": "minecraft:quartz_ore",
-    "icon" : "minecraft:quartz_ore",
+    "target": "minecraft:obsidian",
+    "icon" : "minecraft:obsidian",
     "experience": 6
   }
 }
