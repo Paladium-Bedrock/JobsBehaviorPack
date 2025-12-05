@@ -1,9 +1,0 @@
-{
-  "format_version": "1.0.0",
-  "palajobs:objective_kill": {
-    "job": "hunter",
-    "target": "minecraft:squid",
-    "icon": "minecraft:ink_sac",
-    "experience": 14
-  }
-}
