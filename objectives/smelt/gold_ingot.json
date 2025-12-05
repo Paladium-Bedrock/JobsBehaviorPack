@@ -3,7 +3,7 @@
   "palajobs:objective_smelt": {
     "job": "miner",
     "target": { "item": "minecraft:gold_ingot" },
-    "icon": "minecraft:raw_gold",
+    "icon": "minecraft:gold_ingot",
     "experience": 30,
     "level_needed": 3
   }
