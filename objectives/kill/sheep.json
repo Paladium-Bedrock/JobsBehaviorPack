@@ -4,6 +4,6 @@
     "job": "hunter",
     "target": "minecraft:sheep",
     "icon": "minecraft:sheep_spawn_egg",
-    "experience": 14
+    "experience": 80
   }
 }

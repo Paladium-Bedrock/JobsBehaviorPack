@@ -4,7 +4,7 @@
     "job": "hunter",
     "target": "minecraft:skeleton",
     "icon": "minecraft:skeleton_spawn_egg",
-    "experience": 20,
-    "level_needed": 11
+    "experience": 110,
+    "level_needed": 6
   }
 }

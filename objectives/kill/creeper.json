@@ -4,6 +4,7 @@
     "job": "hunter",
     "target": "minecraft:creeper",
     "icon": "minecraft:creeper_spawn_egg",
-    "experience": 40
+    "experience": 140,
+    "level_needed": 9
   }
 }

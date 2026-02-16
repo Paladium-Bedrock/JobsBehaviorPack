@@ -4,7 +4,7 @@
     "job": "hunter",
     "target": "minecraft:blaze",
     "icon": "minecraft:blaze_spawn_egg",
-    "experience": 25,
+    "experience": 70,
     "level_needed": 14
   }
 }
