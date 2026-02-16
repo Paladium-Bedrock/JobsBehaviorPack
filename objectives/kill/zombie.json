@@ -4,7 +4,7 @@
     "job": "hunter",
     "target": "minecraft:zombie",
     "icon": "minecraft:zombie_spawn_egg",
-    "experience": 15,
-    "level_needed": 7
+    "experience": 100,
+    "level_needed": 6
   }
 }

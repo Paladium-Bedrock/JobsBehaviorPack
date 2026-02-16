@@ -2,9 +2,9 @@
   "format_version": "1.0.0",
   "palajobs:objective_kill": {
     "job": "hunter",
-    "target": "minecraft:cave_spider",
-    "icon": "minecraft:cave_spider_spawn_egg",
-    "experience": 160,
+    "target": "minecraft:bat",
+    "icon": "minecraft:bat_spawn_egg",
+    "experience": 200,
     "level_needed": 12
   }
 }

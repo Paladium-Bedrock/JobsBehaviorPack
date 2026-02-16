@@ -4,6 +4,7 @@
     "job": "hunter",
     "target": "minecraft:pig",
     "icon": "minecraft:pig_spawn_egg",
-    "experience": 14
+    "experience": 90,
+    "level_needed": 3
   }
 }

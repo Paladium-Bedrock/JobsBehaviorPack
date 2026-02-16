@@ -4,7 +4,7 @@
     "job": "hunter",
     "target": "minecraft:spider",
     "icon": "minecraft:spider_spawn_egg",
-    "experience": 8,
-    "level_needed": 13
+    "experience": 130,
+    "level_needed": 9
   }
 }
