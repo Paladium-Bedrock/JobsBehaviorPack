@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "paladium:deepslate_random_ore",
+    "icon" : "paladium:deepslate_random_ore",
+    "experience": 12,
+    "level_needed": 15
+  }
+}

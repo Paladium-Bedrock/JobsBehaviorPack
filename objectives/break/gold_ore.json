@@ -1,0 +1,10 @@
+﻿{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "minecraft:gold_ore",
+    "icon" : "minecraft:gold_ore",
+    "experience": 6
+  }
+}
+

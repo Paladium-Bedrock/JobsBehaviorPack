@@ -4,7 +4,7 @@
     "job": "hunter",
     "target": "minecraft:wither_skeleton",
     "icon": "minecraft:wither_skeleton_spawn_egg",
-    "experience": 100,
-    "level_needed": 16
+    "experience": 400,
+    "level_needed": 15
   }
 }

@@ -4,6 +4,7 @@
     "job": "miner",
     "target": "minecraft:deepslate_emerald_ore",
     "icon" : "minecraft:deepslate_emerald_ore",
-    "experience": 75
+    "experience": 45,
+    "level_needed": 10
   }
 }

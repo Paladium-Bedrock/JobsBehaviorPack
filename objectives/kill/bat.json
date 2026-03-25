@@ -4,7 +4,7 @@
     "job": "hunter",
     "target": "minecraft:bat",
     "icon": "minecraft:bat_spawn_egg",
-    "experience": 200,
-    "level_needed": 12
+    "experience": 300,
+    "level_needed": 13
   }
 }

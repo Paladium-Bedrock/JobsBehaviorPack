@@ -4,6 +4,6 @@
     "job": "miner",
     "target": "minecraft:granite",
     "icon" : "minecraft:granite",
-    "experience": 3
+    "experience": 1
   }
 }

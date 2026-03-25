@@ -4,6 +4,7 @@
     "job": "miner",
     "target": "minecraft:deepslate_redstone_ore",
     "icon" : "minecraft:deepslate_redstone_ore",
-    "experience": 15
+    "experience": 15,
+    "level_needed": 10
   }
 }

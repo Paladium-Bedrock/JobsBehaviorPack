@@ -4,7 +4,7 @@
     "job": "miner",
     "target": "minecraft:iron_ore",
     "icon" : "minecraft:iron_ore",
-    "experience": 8,
+    "experience": 3,
     "level_needed": 10
   }
 }

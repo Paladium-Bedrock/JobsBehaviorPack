@@ -4,7 +4,7 @@
     "job": "farmer",
     "target": "minecraft:carrots",
     "icon" : "minecraft:carrot",
-    "experience": 2,
-    "level_needed": 2
+    "experience": 3,
+    "level_needed": 4
   }
 }

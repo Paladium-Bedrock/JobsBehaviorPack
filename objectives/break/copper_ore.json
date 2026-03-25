@@ -4,6 +4,6 @@
     "job": "miner",
     "target": "minecraft:copper_ore",
     "icon" : "minecraft:copper_ore",
-    "experience": 4
+    "experience": 2
   }
 }

@@ -4,6 +4,6 @@
     "job": "miner",
     "target": "minecraft:diorite",
     "icon" : "minecraft:diorite",
-    "experience": 3
+    "experience": 1
   }
 }

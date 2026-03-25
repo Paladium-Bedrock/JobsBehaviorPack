@@ -4,6 +4,6 @@
     "job": "miner",
     "target": "minecraft:coal_ore",
     "icon" : "minecraft:coal_ore",
-    "experience": 4
+    "experience": 1
   }
 }

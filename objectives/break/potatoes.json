@@ -4,7 +4,7 @@
     "job": "farmer",
     "target": "minecraft:potatoes",
     "icon": "minecraft:potato",
-    "experience": 1,
+    "experience": 2,
     "level_needed": 2
   }
 }

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "paladium:deepslate_titanium_ore",
+    "icon" : "paladium:deepslate_titanium_ore",
+    "experience": 41,
+    "level_needed": 15
+  }
+}

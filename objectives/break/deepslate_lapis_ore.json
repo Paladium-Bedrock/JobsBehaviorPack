@@ -4,6 +4,7 @@
     "job": "miner",
     "target": "minecraft:deepslate_lapis_ore",
     "icon" : "minecraft:deepslate_lapis_ore",
-    "experience": 15
+    "experience": 12,
+    "level_needed": 10
   }
 }

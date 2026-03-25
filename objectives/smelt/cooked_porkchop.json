@@ -4,6 +4,7 @@
     "job": "hunter",
     "target": { "item": "minecraft:cooked_porkchop" },
     "icon": "minecraft:cooked_porkchop",
-    "experience": 10
+    "experience": 55,
+    "level_needed": 4
   }
 }

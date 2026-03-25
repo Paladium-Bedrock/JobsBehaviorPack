@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "paladium:deepslate_instable_ore",
+    "icon" : "paladium:deepslate_instable_ore",
+    "experience": 1500,
+    "level_needed": 15
+  }
+}

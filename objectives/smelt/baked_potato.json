@@ -4,7 +4,7 @@
     "job": "farmer",
     "target": { "item": "minecraft:baked_potato" },
     "icon": "minecraft:baked_potato",
-    "experience": 1,
-    "level_needed": 2
+    "experience": 2,
+    "level_needed": 3
   }
 }
