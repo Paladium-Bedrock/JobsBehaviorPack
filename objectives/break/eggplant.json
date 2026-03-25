@@ -4,8 +4,8 @@
     "job": "farmer",
     "target": "paladium:eggplant_crops",
     "icon": "paladium:eggplant",
-    "experience": 10,
-    "level_needed": 8
+    "experience": 20,
+    "level_needed": 4
   }
 }
 

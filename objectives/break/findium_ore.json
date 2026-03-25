@@ -5,7 +5,7 @@
     "target": "paladium:findium_ore",
     "icon": "paladium:findium_ore",
     "experience": 100,
-    "level_needed": 15
+    "level_needed": 5
   }
 }
 

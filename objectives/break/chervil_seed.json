@@ -4,7 +4,7 @@
     "job": "farmer",
     "target": "paladium:chervil_crops",
     "icon" : "paladium:chervil",
-    "experience": 20,
-    "level_needed": 12
+    "experience": 40,
+    "level_needed": 7
   }
 }

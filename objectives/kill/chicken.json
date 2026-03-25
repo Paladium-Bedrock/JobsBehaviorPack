@@ -4,7 +4,7 @@
     "job": "hunter",
     "target": "minecraft:chicken",
     "icon": "minecraft:chicken_spawn_egg",
-    "experience": 90,
+    "experience": 100,
     "level_needed": 3
   }
 }

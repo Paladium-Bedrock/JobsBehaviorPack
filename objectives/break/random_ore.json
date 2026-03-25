@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "paladium:random_ore",
+    "icon" : "paladium:random_ore",
+    "experience": 8,
+    "level_needed": 5
+  }
+}

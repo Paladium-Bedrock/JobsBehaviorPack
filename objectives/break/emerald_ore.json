@@ -4,6 +4,6 @@
     "job": "miner",
     "target": "minecraft:emerald_ore",
     "icon" : "minecraft:emerald_ore",
-    "experience": 75
+    "experience": 30
   }
 }

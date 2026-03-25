@@ -4,7 +4,7 @@
     "job": "miner",
     "target": "minecraft:deepslate_iron_ore",
     "icon" : "minecraft:deepslate_iron_ore",
-    "experience": 8,
+    "experience": 5,
     "level_needed": 10
   }
 }

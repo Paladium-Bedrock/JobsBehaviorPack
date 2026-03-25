@@ -4,7 +4,7 @@
     "job": "miner",
     "target": "minecraft:diamond_ore",
     "icon" : "minecraft:diamond_ore",
-    "experience": 25,
+    "experience": 20,
     "level_needed": 2
   }
 }

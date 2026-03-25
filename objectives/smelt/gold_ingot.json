@@ -4,7 +4,7 @@
     "job": "miner",
     "target": { "item": "minecraft:gold_ingot" },
     "icon": "minecraft:gold_ingot",
-    "experience": 30,
+    "experience": 3,
     "level_needed": 3
   }
 }

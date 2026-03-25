@@ -4,6 +4,6 @@
     "job": "miner",
     "icon" : "minecraft:andesite",
     "target": "minecraft:andesite",
-    "experience": 3
+    "experience": 1
   }
 }

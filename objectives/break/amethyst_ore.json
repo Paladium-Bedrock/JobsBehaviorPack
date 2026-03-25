@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "miner",
+    "target": "paladium:amethyst_ore",
+    "icon" : "paladium:amethyst_ore",
+    "experience": 18,
+    "level_needed": 5
+  }
+}

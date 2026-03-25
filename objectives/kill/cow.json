@@ -4,6 +4,7 @@
     "job": "hunter",
     "target": "minecraft:cow",
     "icon": "minecraft:cow_spawn_egg",
-    "experience": 80
+    "experience": 80,
+    "level_needed": 1
   }
 }

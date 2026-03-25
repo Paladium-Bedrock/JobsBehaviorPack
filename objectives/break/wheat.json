@@ -4,6 +4,7 @@
     "job": "farmer",
     "target": "minecraft:wheat",
     "icon" : "minecraft:wheat",
-    "experience": 1
+    "experience": 1,
+    "level_needed": 1
   }
 }

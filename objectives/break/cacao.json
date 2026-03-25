@@ -1,0 +1,11 @@
+﻿{
+  "format_version": "1.0.0",
+  "palajobs:objective_break": {
+    "job": "farmer",
+    "target": "minecraft:cocoa",
+    "icon" : "minecraft:cocoa",
+    "experience": 1,
+    "level_needed": 8
+  }
+}
+

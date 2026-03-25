@@ -4,6 +4,6 @@
     "job": "miner",
     "target": "minecraft:redstone_ore",
     "icon" : "minecraft:redstone_ore",
-    "experience": 15
+    "experience": 6
   }
 }

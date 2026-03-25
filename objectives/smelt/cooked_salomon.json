@@ -4,6 +4,7 @@
     "job": "hunter",
     "target": { "item": "minecraft:cooked_salmon" },
     "icon": "minecraft:cooked_salmon",
-    "experience": 15
+    "experience": 45,
+    "level_needed": 2
   }
 }
