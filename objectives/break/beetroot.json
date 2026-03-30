@@ -5,7 +5,7 @@
     "target": "minecraft:beetroots",
     "icon" : "minecraft:beetroot",
     "experience": 8,
-    "level_needed": 6
+    "level_needed": 5
   }
 }
 

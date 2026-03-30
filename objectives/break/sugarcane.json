@@ -5,7 +5,7 @@
     "target": "minecraft:reeds",
     "icon" : "minecraft:sugar_cane",
     "experience": 2,
-    "level_needed": 10
+    "level_needed": 9
   }
 }
 

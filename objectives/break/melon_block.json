@@ -5,6 +5,6 @@
     "target": "minecraft:melon_block",
     "icon" : "minecraft:melon_block",
     "experience": 5,
-    "level_needed": 14
+    "level_needed": 13
   }
 }

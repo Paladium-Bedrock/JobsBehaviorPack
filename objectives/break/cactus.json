@@ -5,7 +5,7 @@
     "target": "minecraft:cactus",
     "icon" : "minecraft:cactus",
     "experience": 1,
-    "level_needed": 8
+    "level_needed": 7
   }
 }
 

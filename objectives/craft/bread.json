@@ -5,6 +5,6 @@
     "target": { "item": "minecraft:bread" },
     "icon": "minecraft:bread",
     "experience": 5,
-    "level_needed": 5
+    "level_needed": 4
   }
 }

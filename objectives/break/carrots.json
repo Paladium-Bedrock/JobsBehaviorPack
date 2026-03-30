@@ -5,6 +5,6 @@
     "target": "minecraft:carrots",
     "icon" : "minecraft:carrot",
     "experience": 3,
-    "level_needed": 4
+    "level_needed": 3
   }
 }
