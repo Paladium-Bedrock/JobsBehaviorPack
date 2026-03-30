@@ -5,6 +5,6 @@
     "target": "paladium:chervil_crops",
     "icon" : "paladium:chervil",
     "experience": 40,
-    "level_needed": 7
+    "level_needed": 6
   }
 }

@@ -5,6 +5,6 @@
     "target": { "item": "minecraft:pumpkin_pie" },
     "icon": "minecraft:pumpkin_pie",
     "experience": 2,
-    "level_needed": 16
+    "level_needed": 15
   }
 }

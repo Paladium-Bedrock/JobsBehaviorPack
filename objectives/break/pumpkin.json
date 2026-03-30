@@ -5,6 +5,6 @@
     "target": "minecraft:pumpkin",
     "icon" : "minecraft:pumpkin",
     "experience": 3,
-    "level_needed": 12
+    "level_needed": 11
   }
 }

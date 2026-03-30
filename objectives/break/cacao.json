@@ -5,7 +5,7 @@
     "target": "minecraft:cocoa",
     "icon" : "minecraft:cocoa",
     "experience": 1,
-    "level_needed": 8
+    "level_needed": 7
   }
 }
 
