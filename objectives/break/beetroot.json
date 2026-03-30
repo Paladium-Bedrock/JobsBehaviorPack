@@ -2,7 +2,7 @@
   "format_version": "1.0.0",
   "palajobs:objective_break": {
     "job": "farmer",
-    "target": "minecraft:beetroots",
+    "target": "minecraft:beetroot",
     "icon" : "minecraft:beetroot",
     "experience": 8,
     "level_needed": 5
