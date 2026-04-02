@@ -3,7 +3,7 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "paladium:arty_green_paladium",
-    "icon": "paladium:arty_green_paladium_egg",
+    "icon": "paladium:arty_green_paladium",
     "experience": 20000,
     "level_needed": 16
   }
