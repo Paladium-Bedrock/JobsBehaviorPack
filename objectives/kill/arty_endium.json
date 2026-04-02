@@ -3,7 +3,7 @@
   "palajobs:objective_kill": {
     "job": "hunter",
     "target": "paladium:arty_endium",
-    "icon": "paladium:arty_endium_spawn_egg",
+    "icon": "paladium:arty_endium_egg",
     "experience": 40000,
     "level_needed": 19
   }
