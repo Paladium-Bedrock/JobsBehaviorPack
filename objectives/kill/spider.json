@@ -5,6 +5,6 @@
     "target": "minecraft:spider",
     "icon": "minecraft:spider_spawn_egg",
     "experience": 210,
-    "level_needed": 9
+    "level_needed": 8
   }
 }

@@ -1,10 +1,11 @@
-{
+﻿{
   "format_version": "1.0.0",
   "palajobs:objective_kill": {
     "job": "hunter",
-    "target": "minecraft:cow",
-    "icon": "minecraft:cow_spawn_egg",
-    "experience": 80,
+    "target": "paladium:arty",
+    "icon": "paladium:arty_spawn_egg",
+    "experience": 1000,
     "level_needed": 0
   }
 }
+

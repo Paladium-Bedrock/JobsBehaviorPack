@@ -5,6 +5,6 @@
     "target": "minecraft:zombie",
     "icon": "minecraft:zombie_spawn_egg",
     "experience": 160,
-    "level_needed": 5
+    "level_needed": 4
   }
 }

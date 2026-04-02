@@ -5,6 +5,6 @@
     "target": "minecraft:cave_spider",
     "icon": "minecraft:cave_spider_spawn_egg",
     "experience": 220,
-    "level_needed": 11
+    "level_needed": 10
   }
 }

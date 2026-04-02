@@ -5,6 +5,6 @@
     "target": "minecraft:sheep",
     "icon": "minecraft:sheep_spawn_egg",
     "experience": 90,
-    "level_needed": 2
+    "level_needed": 1
   }
 }
