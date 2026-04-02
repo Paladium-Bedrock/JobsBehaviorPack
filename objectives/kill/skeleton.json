@@ -5,6 +5,6 @@
     "target": "minecraft:skeleton",
     "icon": "minecraft:skeleton_spawn_egg",
     "experience": 200,
-    "level_needed": 7
+    "level_needed": 6
   }
 }

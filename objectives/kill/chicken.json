@@ -5,6 +5,6 @@
     "target": "minecraft:chicken",
     "icon": "minecraft:chicken_spawn_egg",
     "experience": 100,
-    "level_needed": 3
+    "level_needed": 2
   }
 }

@@ -5,6 +5,6 @@
     "target": "minecraft:blaze",
     "icon": "minecraft:blaze_spawn_egg",
     "experience": 500,
-    "level_needed": 17
+    "level_needed": 16
   }
 }
