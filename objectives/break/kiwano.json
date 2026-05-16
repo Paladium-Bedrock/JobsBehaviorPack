@@ -4,7 +4,7 @@
     "job": "farmer",
     "target": "paladium:kiwano_crops",
     "icon": "paladium:kiwano",
-    "experience": 10,
+    "experience": 45,
     "level_needed": 14
   }
 }
